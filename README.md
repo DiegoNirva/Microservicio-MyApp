@@ -7,9 +7,6 @@
     <style>
         body { font-family: Arial, sans-serif; line-height: 1.6; }
         h1, h2, h3 { color: #333; }
-        code { background: #f4f4f4; padding: 2px 5px; border-radius: 4px; }
-        pre { background: #f4f4f4; padding: 10px; border-radius: 4px; overflow-x: auto; }
-        ul { padding-left: 20px; }
     </style>
 </head>
 <body>
