@@ -27,7 +27,7 @@
         <li>CRUD de entidades estudiantes y alumnos</li>
         <li>Solicitud de Consultas</li>
     </ul>
-    <h2 id="Tecnologias">Uso</h2>
+    <h2 id="Tecnologias">Tecnologias</h2>
     <ul>
         <li>SprigBoot</li>
         <li>Mysql - Student</li>
